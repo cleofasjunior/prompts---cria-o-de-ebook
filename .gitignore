@@ -1,0 +1,29 @@
+# --- Sistema Operacional (Arquivos de lixo) ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# --- VS Code e Editores ---
+.vscode/
+*.code-workspace
+.history/
+*.swp
+
+# --- Segurança 
+.env
+.env.local
+api_keys.txt
+secrets.json
+
+# --- Python 
+__pycache__/
+*.pyc
+venv/
+env/
+pip-log.txt
+
+# --- Arquivos de Log e Temporários ---
+*.log
+*.tmp
+*.bak
