@@ -11,8 +11,6 @@ Este repositório documenta o fluxo de trabalho (workflow) desenvolvido para cri
 
 ## 🔄 O Workflow (Pipeline)
 
-```mermaid
-graph LR
     A[Ideação & Brainstorm] -->|Prompt 01| B(Estrutura de Tópicos)
     B -->|Prompt 02| C{Refinamento Editorial}
     C -->|Prompt 03| D[Escrita de Capítulos]
